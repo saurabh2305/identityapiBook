@@ -1,0 +1,14 @@
+D:\EBookGallery\BookIdentityAPI\BookIdentityAPI\bin\Debug\netcoreapp2.2\BookIdentityAPI.deps.json
+D:\EBookGallery\BookIdentityAPI\BookIdentityAPI\bin\Debug\netcoreapp2.2\BookIdentityAPI.runtimeconfig.json
+D:\EBookGallery\BookIdentityAPI\BookIdentityAPI\bin\Debug\netcoreapp2.2\BookIdentityAPI.runtimeconfig.dev.json
+D:\EBookGallery\BookIdentityAPI\BookIdentityAPI\bin\Debug\netcoreapp2.2\BookIdentityAPI.dll
+D:\EBookGallery\BookIdentityAPI\BookIdentityAPI\obj\Debug\netcoreapp2.2\BookIdentityAPI.csproj.CoreCompileInputs.cache
+D:\EBookGallery\BookIdentityAPI\BookIdentityAPI\obj\Debug\netcoreapp2.2\BookIdentityAPI.RazorAssemblyInfo.cache
+D:\EBookGallery\BookIdentityAPI\BookIdentityAPI\obj\Debug\netcoreapp2.2\BookIdentityAPI.RazorAssemblyInfo.cs
+D:\EBookGallery\BookIdentityAPI\BookIdentityAPI\obj\Debug\netcoreapp2.2\BookIdentityAPI.AssemblyInfoInputs.cache
+D:\EBookGallery\BookIdentityAPI\BookIdentityAPI\obj\Debug\netcoreapp2.2\BookIdentityAPI.AssemblyInfo.cs
+D:\EBookGallery\BookIdentityAPI\BookIdentityAPI\obj\Debug\netcoreapp2.2\BookIdentityAPI.RazorTargetAssemblyInfo.cache
+D:\EBookGallery\BookIdentityAPI\BookIdentityAPI\bin\Debug\netcoreapp2.2\BookIdentityAPI.pdb
+D:\EBookGallery\BookIdentityAPI\BookIdentityAPI\obj\Debug\netcoreapp2.2\BookIdentityAPI.dll
+D:\EBookGallery\BookIdentityAPI\BookIdentityAPI\obj\Debug\netcoreapp2.2\BookIdentityAPI.pdb
+D:\EBookGallery\BookIdentityAPI\BookIdentityAPI\obj\Debug\netcoreapp2.2\BookIdentityAPI.csprojAssemblyReference.cache
